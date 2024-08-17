@@ -15,7 +15,8 @@ The project utilized six distinct tables comprising four dimension tables and tw
 2. **Fact Tables:**
    - `fact_sales_monthly`
    - `ns_target_2021`
-
+## Data Model
+![DataModel](https://github.com/satishsangwan/AtliQ_Sales_Report_Excel/blob/main/images/Data%20Model.png)
 ## Key Deliverables
 The project involved creating detailed reports to aid in strategic decision-making:
 
