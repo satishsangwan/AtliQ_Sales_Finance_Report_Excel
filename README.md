@@ -21,8 +21,8 @@ The project utilized six distinct tables comprising four dimension tables and tw
 The project involved creating detailed reports to aid in strategic decision-making:
 
 ### Major Reports
-1. **Customer Performance Report**: Analysis of customer performance across all fiscal years.
-2. **Market Performance vs. 2021 Target**: Evaluation of market performance against the sales targets for 2021.
+1. **Customer Performance Report**: Analysis of customer performance across all fiscal years. [Link to Report](https://github.com/satishsangwan/AtliQ_Sales_Report_Excel/blob/main/Reports/Customer%20Performance%20Report.pdf)
+2. **Market Performance vs. 2021 Target**: Evaluation of market performance against the sales targets for 2021. [Link to Report](https://github.com/satishsangwan/AtliQ_Sales_Report_Excel/blob/main/Reports/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ### Additional Reports
 1. **Top 10 Products by Percentage Change in Net Sales (2020-2021)**: Identification of the top-performing products based on year-over-year growth.
