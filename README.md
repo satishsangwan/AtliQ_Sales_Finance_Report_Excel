@@ -16,28 +16,28 @@ The project utilized six distinct tables comprising four dimension tables and tw
    - `fact_sales_monthly`
    - `ns_target_2021`
 ## Data Model 
-![DataModel]()
+![DataModel](https://github.com/satishsangwan/AtliQ_Sales_Report_Excel/blob/main/images/Data%20Model.png)
 ## Key Deliverables
 The project involved creating detailed reports in both sales and finance domains to aid in strategic decision-making:
 
 ### Major Sales Reports
-1. **Customer Performance Report**: Analysis of customer performance across all fiscal years.
-2. **Market Performance vs. 2021 Target**: Evaluation of market performance against the sales targets for 2021.
+1. **Customer Performance Report**: Analysis of customer performance across all fiscal years. [Link to report]()
+2. **Market Performance vs. 2021 Target**: Evaluation of market performance against the sales targets for 2021. [Link to report]()
 
 ### Additional Sales Reports
-1. **Top 10 Products by Percentage Change in Net Sales (2020-2021)**: Identification of the top-performing products based on year-over-year growth.
-2. **Top 5 and Bottom 5 Products by Quantity Sold**: Ranking of products based on sales volume.
-3. **New Products Launched in 2021**: Insights into newly introduced products and their market reception.
-4. **Top 5 Countries by Net Sales in 2021**: Geographic breakdown of sales performance.
-5. **Division Level Report**: Analysis of sales performance at the division level, providing insights into the performance of different business divisions across the company.
+1. **Top 10 Products by Percentage Change in Net Sales (2020-2021)**: Identification of the top-performing products based on year-over-year growth. [Link to report]()
+2. **Top 5 and Bottom 5 Products by Quantity Sold**: Ranking of products based on sales volume. [Link to report]()
+3. **New Products Launched in 2021**: Insights into newly introduced products and their market reception. [Link to report]()
+4. **Top 5 Countries by Net Sales in 2021**: Geographic breakdown of sales performance. [Link to report]()
+5. **Division Level Report**: Analysis of sales performance at the division level, providing insights into the performance of different business divisions across the company. [Link to report]()
 
 ### Major Finance Reports
-1. **Profit and Loss Report by Fiscal Year**: Comprehensive analysis of profit and loss statements across different fiscal years.
-2. **Profit and Loss Report by Quarter & Months**: Detailed financial performance analysis broken down by quarters and months.
+1. **Profit and Loss Report by Fiscal Year**: Comprehensive analysis of profit and loss statements across different fiscal years. [Link to report]()
+2. **Profit and Loss Report by Quarter & Months**: Detailed financial performance analysis broken down by quarters and months. [Link to report]()
 
 ### Additional Finance Reports
-1. **P&L for Markets (Country)**: Profit and loss analysis for different geographic markets (countries).
-2. **GM % by Quarter for Subzone**: Gross margin percentage analysis by quarter, segmented by subzone.
+1. **P&L for Markets (Country)**: Profit and loss analysis for different geographic markets (countries). [Link to report]()
+2. **GM % by Quarter for Subzone**: Gross margin percentage analysis by quarter, segmented by subzone. [Link to report]()
 
 ## Skills and Techniques Applied
 Through this project, I honed several key skills critical to data analytics in both sales and finance domains:
