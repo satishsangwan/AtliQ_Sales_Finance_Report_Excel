@@ -29,6 +29,7 @@ The project involved creating detailed reports to aid in strategic decision-maki
 2. **Top 5 and Bottom 5 Products by Quantity Sold**: Ranking of products based on sales volume.
 3. **New Products Launched in 2021**: Insights into newly introduced products and their market reception.
 4. **Top 5 Countries by Net Sales in 2021**: Geographic breakdown of sales performance.
+5. **Division Level Report**: Analysis of sales performance at the division level, providing insights into the performance of different business divisions across the company.
 
 ## Skills and Techniques Applied
 Through this project, I honed several key skills critical to data analytics in the sales domain:
